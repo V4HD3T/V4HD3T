@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D03AQENg54Q6qxHqQ/profile-displayphoto-shrink_400_400/0/1697819742986?e=1727913600&v=beta&t=PMfAoZ2JykYBHDHkpRgQ9LdFu9orgzl0pwxOdnEYBtg)
-
 <h1 align="center">Hi 👋, I'm Vahdet Eren Bozyil</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
