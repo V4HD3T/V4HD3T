@@ -16,7 +16,7 @@
 <a href="https://twitter.com/v4hd3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v4hd3t" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vahdeterenbozyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahdeterenbozyil" height="30" width="40" /></a>
 <a href="https://medium.com/@vahdeterenbozyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vahdeterenbozyil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vahdeterenbozyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vahdeterenbozyil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vahdeterenbozyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vahdeterenbozyil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Coding Platforms</h3>
