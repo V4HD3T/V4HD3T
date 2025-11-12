@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vahdeterenbozyil@gmail.com**
 
-- ⚡ Fun fact **I like Legos and chess**
+- ⚡ Fun fact **I like Legos and Chess**
 
 <h3 align="left">Social Medias</h3> 
 <p align="left">
